@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammed Anisuzzaman
+### Digital Marketing Specialist | SEO & Social Media Strategist
 
-<!--
-**anikazaman2024-ship-it/anikazaman2024-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A result-driven Digital Marketing professional with a strong background in business operations, team leadership, and digital solutions. Experienced in executing successful SEO strategies, managing online marketing tasks, and growing brand presence across digital platforms.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Skills & Expertise
+* **Digital Marketing:** Social Media Marketing (SMM), Campaign Management
+* **Search Engine Optimization:** On-Page SEO, Keyword Research, Search Rankings
+* **Management & Operations:** Team Coordination, Business Planning, Budgeting
+
+---
+
+### 💼 Professional Snapshot
+* **Digital Marketing & Freelancing:** Specialized in data-driven marketing campaigns, micro-tasks, and SEO performance optimization.
+* **Past Leadership:** Former General Manager at Maruf Hussain Building Maintenance L.L.C (2019-2022) & Business Owner at Taiyeba Fashion and Cosmetics (2020-prsent).
+
+---
+
+📬 **Let's Connect!**
+* **Email:** anikazaman2024@gmail.com
